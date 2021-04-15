@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="git01" uploadOnCheckin="002163fa-3c82-4076-a13a-daf8dc7035fa">
+  <component name="PublishConfigData" serverName="git01">
     <serverData>
       <paths name="git001">
         <serverdata>
@@ -10,6 +10,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="git001" />
   </component>
 </project>
