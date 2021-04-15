@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="dhdmp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dhdmp_jar</output-path>
+    <root id="root">
+      <element id="archive" name="dhdmp.jar">
+        <element id="module-output" name="dhdmp" />
+      </element>
+    </root>
+  </artifact>
+</component>
